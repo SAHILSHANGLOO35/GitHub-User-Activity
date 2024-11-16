@@ -2,10 +2,14 @@
 
 This project allows you to fetch and display activity data for a given GitHub user.
 
+# ProjectURL
+
+https://github.com/SAHILSHANGLOO35/GitHub-User-Activity
+
 ## Features
 
 - Fetch user data from GitHub API.
-- Display user activity like repositories, commits, and other statistics.
+- Display user's activity.
 - Simple command-line interface (CLI) to interact with the application.
 
 ## Prerequisites

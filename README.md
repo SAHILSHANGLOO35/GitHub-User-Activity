@@ -4,7 +4,7 @@ This project allows you to fetch and display activity data for a given GitHub us
 
 # ProjectURL
 
-https://github.com/SAHILSHANGLOO35/GitHub-User-Activity
+https://roadmap.sh/projects/github-user-activity
 
 ## Features
 
